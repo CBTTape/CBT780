@@ -1,0 +1,8 @@
+2023-04-03 02:38:07.326455 - Initialized conversion of CBT780
+2023-04-03 02:38:07.382856 - Received CBT.V504.FILE780.PDS from FILE780.XMI 
+2023-04-03 02:38:07.385689 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE780.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:38:07.387349 - Found $$DOC.txt (text/plain) in CBT.V504.FILE780.PDS, moved to PDS/$$DOC
+2023-04-03 02:38:07.388643 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE780.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:38:07.389693 - Found @FILE780.txt (text/plain) in CBT.V504.FILE780.PDS, moved to PDS/@FILE780
+2023-04-03 02:38:07.391134 - Found RXMAPR.rexx (text/plain) in CBT.V504.FILE780.PDS, moved to PDS/RXMAPR
+2023-04-03 02:38:07.392159 - Found RX3270.txt (text/plain) in CBT.V504.FILE780.PDS, moved to PDS/RX3270
