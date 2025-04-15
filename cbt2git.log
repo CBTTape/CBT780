@@ -1,7 +1,7 @@
-2025-04-15 05:33:13.703544 - Received CBT.V508.FILE780.PDS from FILE780.XMI 
-2025-04-15 05:33:13.704431 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:33:13.704739 - Found $$DOC.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/$$DOC
-2025-04-15 05:33:13.704900 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/$$NOTE1
-2025-04-15 05:33:13.705207 - Found @FILE780.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/@FILE780
-2025-04-15 05:33:13.705360 - Found RXMAPR.rexx (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/RXMAPR
-2025-04-15 05:33:13.705554 - Found RX3270.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/RX3270
+2025-04-16 00:09:46.931625 - Received CBT.V508.FILE780.PDS from FILE780.XMI 
+2025-04-16 00:09:46.932530 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:09:46.933037 - Found $$DOC.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/$$DOC
+2025-04-16 00:09:46.933244 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/$$NOTE1
+2025-04-16 00:09:46.933326 - Found @FILE780.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/@FILE780
+2025-04-16 00:09:46.933500 - Found RXMAPR.rexx (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/RXMAPR
+2025-04-16 00:09:46.933707 - Found RX3270.txt (text/plain) in CBT.V508.FILE780.PDS, moved to PDS/RX3270
